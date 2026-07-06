@@ -1,0 +1,40 @@
+# === IDEs e Editores ===
+.idea/
+.vscode/
+.kotlin
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# === NetBeans ===
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# === Arquivos Compilados e Pastas de Build ===
+*.class
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+target/
+build/
+
+# === Pastas de Exercícios / Projeto ===
+Exercicios/
+
+# === Logs e Arquivos Temporários ===
+*.log
+*.tmp
+
+# === Configurações do Sistema Operacional ===
+.DS_Store
+Thumbs.db
