@@ -4,6 +4,7 @@ Repositório com exercícios e projetos de **Programação Orientada a Objetos (
 
 ## Conteúdo
 - `GerenciamentoEmpresa/` — exercício de POO com classes como `Colaborador`, `Gerente`, `Vendedor` e `Atendente`.
+- `Relogio/` — exercício de POO com classes como `Relogio`, `BRLRelogio`, `USRelogio`.
 
 ## Como executar
 Abra o projeto na sua IDE (IntelliJ/VSCode) e execute a classe `Main` dentro de `src/`.
